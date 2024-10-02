@@ -1,0 +1,65 @@
+html {
+    margin: 0;
+}
+
+
+
+
+.button {
+    width: 70px;
+    height: 40px;
+    border: solid black 2px;
+    display: inline-block;
+    border-radius: 25%;
+
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 45vh;
+    flex-wrap: wrap;
+}
+
+
+
+
+#grey {
+    background: grey;
+}
+
+#white {
+    background: white;
+}
+
+#blue {
+    background: blue;
+}
+
+#yellow {
+    background: yellow;
+}
+#black{
+    background-color: black;
+}
+
+#green{
+    background-color: green;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#red{
+    background-color: red;
+}
+
+#purple{
+    background-color: purple;
+}
+
+#brown{
+    background-color: brown;
+}
